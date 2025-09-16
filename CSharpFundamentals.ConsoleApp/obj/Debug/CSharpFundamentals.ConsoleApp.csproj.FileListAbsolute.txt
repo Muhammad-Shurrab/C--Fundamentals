@@ -1,0 +1,8 @@
+C:\Users\LOQ\source\repos\CSharpFundamentals\CSharpFundamentals.ConsoleApp\bin\Debug\CSharpFundamentals.ConsoleApp.exe.config
+C:\Users\LOQ\source\repos\CSharpFundamentals\CSharpFundamentals.ConsoleApp\bin\Debug\CSharpFundamentals.ConsoleApp.exe
+C:\Users\LOQ\source\repos\CSharpFundamentals\CSharpFundamentals.ConsoleApp\bin\Debug\CSharpFundamentals.ConsoleApp.pdb
+C:\Users\LOQ\source\repos\CSharpFundamentals\CSharpFundamentals.ConsoleApp\obj\Debug\CSharpFundamentals.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\LOQ\source\repos\CSharpFundamentals\CSharpFundamentals.ConsoleApp\obj\Debug\CSharpFundamentals.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\LOQ\source\repos\CSharpFundamentals\CSharpFundamentals.ConsoleApp\obj\Debug\CSharpFundamentals.ConsoleApp.exe
+C:\Users\LOQ\source\repos\CSharpFundamentals\CSharpFundamentals.ConsoleApp\obj\Debug\CSharpFundamentals.ConsoleApp.pdb
+C:\Users\LOQ\source\repos\CSharpFundamentals\CSharpFundamentals.ConsoleApp\obj\Debug\CSharpFundamentals.ConsoleApp.exe.config
